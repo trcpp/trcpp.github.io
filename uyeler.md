@@ -103,7 +103,7 @@ title: Üyeler
 - Orkun Tokdemir (Ölçsan)
 - Osman Bal (Freelance Developer)
 - Osman Gökçe (TEI - Tusaş)
-- Osman Nacar (Mavinc
+- Osman Nacar (Mavinc)
 - Ömer Eroğlu (Verifone)
 - Özgenur İlbakan (Avikon Elektronik)
 - Özgür Keskin (Hugin Retail Solution
