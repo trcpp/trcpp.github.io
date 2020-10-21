@@ -1,0 +1,132 @@
+---
+layout: page
+title: ÜYELER
+---
+- Abdülkadir Mırık (SDT Space And Defence Technologies)
+- Ahmet İbrahim Aksoy (C ve Sistem Programcıları Derneği)
+- Ahmet Mert Avunduk (Nurd Innovation Center)
+- Ahmet Onur Solmaz (Iceberg Digital)
+- Ahmet Samet Halıcı (Havelsan)
+- Ahmet Suhan Oka (Keon Enerji)
+- Akın Can (Yıldız Üniversitesi)
+- Aleyna Çorbacı (Koç Üniveristesi)
+- Ali Ergün (Arçelik)
+- Ali Kaan Türkmen (Luna Elektronik)
+- Ali Kalan (Barclays)
+- Alim Yavuz (CTECH Bilişim)
+- Alper Yazır (Savronik)
+- Arda Aytekin (Ericsson GAIA)
+- Alitalip Sever (GTU Savunma Teknolojileri)
+- Ayşe Şimşek (Erciyes Üniversitesi)
+- Ayşin Taşdelen (Altına
+- Batuhan Hangün (Nişantaşı Üniversitesi)
+- Berk Kulaksız (Lydians)
+- Berker Iğdır (Eren Holding)
+- Burak Büyükyüksel (Otokar)
+- Burak Dağdeviren (Ulak Haberleşme)
+- Burak Şahan (Rota Teknik)
+- Bünyamin Şenel (Mavi Alp Bilgi Teknolojiler
+- Canberk Sezer (Arçelik)
+- Cem Karabacak (Yıldız Teknik Üniversitesi)
+- Cemal Dağlı (Digital Society School)
+- Cihan Zaimoğlu (Accentur
+- Deniz Ertaş (Onur Mühendislik)
+- Denizhan Yerel (Roketsan)
+- Doğancan Koç (Koç Sistem)
+- Dogus Ural (Riddle &amp; Cod
+- Eda Altuntaş (Bursa Teknik Üniversitesi)
+- Enes Küçük (Dronic Labs)
+- Ekrem Polat (Diebold Nixdorf)
+- Emre Demirhan (Tübitak)
+- Emre Kovancı (Talus Studio)
+- Emre Tüfekçioğlu (Emko Elektronik)
+- Ender Türkyılmaz (Bewell Technology)
+- Erdem Kopan (Arbe Yazılım)
+- Erkan Oğuz (Ulak Haberleşme)
+- Ertuğrul Güngör (ESEN)
+- Eyüp Karabıyık (ARaymond Networ
+- Fatih Behlül (Ford Otosan)
+- Fatih Durmaz (Penta Elektronik)
+- Fatih Örnek (Detaysoft)
+- Fehmi Demiralp (EST Enerji)
+- Ferhat Tümer (Takosan)
+- Furkan Songur (Türkiye Teknoloji Vakf
+- Gökhan Ay (Luna A.Ş)
+- Görkem Özüağ (Redline Sattelite Systems)
+- Gurhan Sancar (Emko Elektronik)
+- Gülcan Tikiz (İmastek Savunm
+- Fırat Çelik (Verisun Teknoloji A.
+- Hakan Karaş (Sabancı DX)
+- Hami Yılmaz
+- Hande Özyazgan (Ulak Haberleşme)
+- Hasan Demirhan (Girişimci)
+- Hasan Hüseyin Kaçmaz (ITU Pars Roket Grubu)
+- Havva Altuntaş (Ulak Haberleşme)
+- Hayri Uğur Koltuk (Apple)
+- Hüseyin Kulaksız (Excel.web.t
+- İbrahim Demirdöğen
+- İbrahim Kesim (İsbak A.Ş)
+- İlkay Çelik (Gesk Technologies)
+- İrem İkra Adlığ (BosphorusISS)
+- İrfan Bulut (OM Partner
+- Kadir Önay (Bosch Security)
+- Kerem Tuna Özman (ASML - Hollanda)
+- Koray Sarıoğlu (Ford Otosan)
+- Kaan Aslan (C ve Sistem Programcıları Derneği)
+- Kazım Uyar (Gazi Üniversitesi)
+- Kadir Üstün (Ulak Haberleşme)
+- Kubilay Cebeci (The BonCompany BV)
+- Kubilay Sezen (3BLa
+- Latif Uluman (Robomotio
+- Mehmet Baykan
+- Mehmet Efendioğlu (Tübitak)
+- Mehmet İslamoğlu
+- Metin Duman (Arçelik)
+- Muhammet Atalay (B&amp;B Information Technologies)
+- Muhammet Koçak
+- Muhammet Kurt (Türk Havacılık ve Uzay Sanayi)
+- Murat Çetin (Roketsan)
+- Mustafa Gönül (Siemens)
+- Mustafa Şirin (İstecenter)
+- Mustafa Yemural (Argeis
+- Necati Ergin (C ve Sistem Programcıları Derneği)
+- Nuri Baran Ayena (Aselsan)
+- Nurullah Özdemir (Sayp
+- Oğuz Kaan Öztürk (Argela Technologies)
+- Oğuz Karan (C ve Sistem Programcıları Derneği)
+- Oğuzhan Katlı (STM)
+- Okan Akyüz (AGC Yazılım)
+- Okan Yılmaz (Savronik)
+- Okan Ayık (OBSS)
+- Onur Arkut (Rockwell Automation)
+- Onur Uslu
+- Orkun Tokdemir (Ölçsan)
+- Osman Bal (Freelance Developer)
+- Osman Gökçe (TEI - Tusaş)
+- Osman Nacar (Mavinc
+- Ömer Eroğlu (Verifone)
+- Özgenur İlbakan (Avikon Elektronik)
+- Özgür Keskin (Hugin Retail Solution
+- Rohat Karataş (Entertainment Factor
+- Sadık Karabay
+- Salih Topal (Netaş)
+- Sefa Veske
+- Selami Yalçın (Sadtek Elektronik)
+- Semih Demir
+- Sercan Satıcı (Netaş)
+- Serhat Doğanay (Genemek)
+- Serkan Öztürk
+- Serkan Türkkolu (ICTerra İletişim ve Bilgi Teknolojileri A.Ş.)
+- Sinan Sezgin (Arçelik)
+- Suna Bayram (Karadeniz Teknik Üniversites
+- Taha Emre Demirkol (Siemens)
+- Tunahan Sert (Neta
+- Uğur Can Usta (Yıldız Teknik Üniversites
+- Velican Akkuş (Huawe
+- Yakup Demir (Simsoft Bilgisayar Teknolojileri)
+- Yasing İpekoğlu (Ayesaş)
+- Yavuz Özer (CZR Otomasyon)
+- Yusuf Furkan Yücesoy (Eskişlehir Osmangazi Üniversitesi)
+- Yusuf Hamdi Saylam (Vadi Kurumsal Bilgi Sistemleri)
+- Yusuf Keten (Hacettepe Üniversitesi)
+- Yusuf Yetim
