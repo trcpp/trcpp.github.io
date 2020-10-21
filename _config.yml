@@ -6,25 +6,24 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Türkiye C++ Topluluğu
 
 # Your name to show in the footer
-author: Some Person
+author: trcpp
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Hakkımızda: "aboutme"
+  Aramıza Katıl:
+    - Slack: "https://join.slack.com/t/trcpp/shared_invite/zt-iemygi2c-YOjo~6rq3fsDaehWGAp_yA"
+    - Telegram: "https://t.me/trcpp"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -39,31 +38,9 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-
-# If you want to show a link to an RSS in the footer, add the site description here.
-# If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+  email: "turkeycpp@gmail.com"
+  github: trcpp
+  youtube: channel/UCi46CLuNdT2DwpfwZIwKZ1w?view_as=subscriber
 
 # --- General options --- #
 
@@ -76,7 +53,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "trcpp.org"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
