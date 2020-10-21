@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SPONSORLAR
+title: Sponsorlar
 ---
 Sponsor kuruluşları listesi aşağıda yer almaktadır. Herhangi bir etkinliğe sponsor olmak için bizimle iletişime geçebilirsiniz.
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HAKKIMIZDA
+title: Hakkımızda
 subtitle: Biz kimiz ve neler yapıyoruz?
 ---
 

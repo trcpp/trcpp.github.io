@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ÜYELER
+title: Üyeler
 ---
 - Abdülkadir Mırık (SDT Space And Defence Technologies)
 - Ahmet İbrahim Aksoy (C ve Sistem Programcıları Derneği)
