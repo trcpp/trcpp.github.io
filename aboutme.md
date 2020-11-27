@@ -14,6 +14,8 @@ Türkiye C++, C++ programlama diline gönül vermiş programcıların oluşturdu
 - C++ dilini kullanan herkese fayda sağlayacak etkinlikler düzenlemek
 - Bildiklerimizi paylaşmak, paylaşmak isteyenler icin uygun ortamı sağlamak
 
+---
+
 # Türkiye C++ Topluluğu Davranış Kuralları
 
 Türkiye C++ Topluluğuna hoşgeldiniz. Katılımınızı tamamlamak ve kanallarda aktif rol alamabilmeniz için Türkiye C++
