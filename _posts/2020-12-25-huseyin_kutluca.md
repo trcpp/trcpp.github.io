@@ -6,6 +6,8 @@ share-img: /assets/img/huseyinkutluca.png
 tags: [programlama, sunum]
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBqgEgJTXHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Türkiye C++ Topluluğu olarak 2021 yılının ilk etkinliğini duyurmak isteriz.
 
 3 Ocak tarihinde gerçekleştireceğimiz, Hüseyin Kutluca'nın "Açık Mimariler ve Mimari Tasarım Kalıpları" sunumuna herkes davetlidir.
