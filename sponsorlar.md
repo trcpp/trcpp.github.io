@@ -5,7 +5,8 @@ title: Sponsorlar
 Sponsor kuruluşları listesi aşağıda yer almaktadır. Herhangi bir etkinliğe sponsor olmak için bizimle iletişime geçebilirsiniz.
 
 ## **PMI Türkiye**
-> https://www.pmi.org.tr/
+> [Resmi Web Sayfası](https://www.pmi.org.tr/)
+> [PMI Türkiye Sponsorları](https://www.pmi.org.tr/summit/dijital2020-2/sponsorlarimiz/)
 
 ## **C ve Sistem Programcıları Derneği**
 > 2.Taşocağı Cd. Oğuz Sk. Barbaros Apt. No: 11/4 PK: 34387 Mecidiyeköy/İSTANBUL
