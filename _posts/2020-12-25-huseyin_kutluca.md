@@ -6,7 +6,7 @@ share-img: /assets/img/huseyinkutluca.png
 tags: [programlama, sunum]
 ---
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/GBqgEgJTXHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width=100% height="400" src="https://www.youtube.com/embed/GBqgEgJTXHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Türkiye C++ Topluluğu olarak 2021 yılının ilk etkinliğini duyurmak isteriz.
 
