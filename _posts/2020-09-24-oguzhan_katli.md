@@ -6,7 +6,7 @@ share-img: /assets/img/cachefriendly.jpg
 tags: [programlama, sunum]
 ---
 
-<iframe width=100% height="400" src="https://www.youtube.com/embed/g5PuceJKMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/g5PuceJKMak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Türkiye C++ Topluluğu olarak hazırlamış olduğumuz ilk sunumu sizinle paylaştığımız için çok mutluyuz. 
 
